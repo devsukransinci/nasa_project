@@ -6,7 +6,6 @@ import org.springframework.http.ResponseEntity;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.servlet.ModelAndView;
-
 import com.apiproject.api_nasa.model.Apod;
 import com.apiproject.api_nasa.model.MarsRoverCamera;
 import com.apiproject.api_nasa.model.MarsRoverInfo;
