@@ -22,15 +22,7 @@ Interactive User Interface: The user interface is designed to be intuitive and u
 Uygulama özünde kullanıcılara, her birinin kendine özgü görev geçmişi ve keşifleri olan üç ikonik Mars Rover'ı (Curiosity, Opportunity ve Spirit) arasından seçim yapma fırsatı sunuyor. Bir gezici seçildikten sonra kullanıcılar,
 Mars yüzeyinde çekilen geniş manzara koleksiyonunu, manzaraları, jeolojik oluşumları ve gezicinin Mars arazisindeki yolculuğuna dair anlık görüntüleri derinlemesine inceleyebiliyor
 
-Kullanılan Teknolojiler :
 
-Bu projede Spring Boot, HTTP istekleri, veri işleme ve yanıt işleme gibi önemli işlevleri yerine getiren omurga görevi görüyor. Spring'in güçlü Inversion of Control (IoC) kapsayıcısı ve dependency İnjection kullanan 
-uygulama mimarisi  NASA'nın Rover API'si gibi harici API'lerle kusursuz entegrasyona olanak tanır.
-NASA'nın Mars Rover API'si : Projenin birincil veri kaynağı olan API, NASA'nın Mars gezicileri tarafından yakalanan görüntülere ve bilgilere erişim sağlar.
-
-Thymeleaf : Thymeleaf, API'den alınan verilerle HTML sayfalarının dinamik olarak oluşturulmasına olanak tanıyan şablon oluşturma motoru görevi görür.
-
-Bootstrap : Bootstrap, gösterişli bir kullanıcı deneyimi için duyarlı tasarım öğeleri ve bileşenleri sağlayarak kullanıcı arayüzünü geliştirir.
 
 Ana Özellikler:
 
