@@ -22,8 +22,6 @@ Interactive User Interface: The user interface is designed to be intuitive and u
 Uygulama özünde kullanıcılara, her birinin kendine özgü görev geçmişi ve keşifleri olan üç ikonik Mars Rover'ı (Curiosity, Opportunity ve Spirit) arasından seçim yapma fırsatı sunuyor. Bir gezici seçildikten sonra kullanıcılar,
 Mars yüzeyinde çekilen geniş manzara koleksiyonunu, manzaraları, jeolojik oluşumları ve gezicinin Mars arazisindeki yolculuğuna dair anlık görüntüleri derinlemesine inceleyebiliyor
 
-
-
 Ana Özellikler:
 
 Mars Rovers Seçimi : Kullanıcılar, her biri Mars manzarasına benzersiz bir bakış açısı sunan NASA'nın üç aktif Mars gezgini (Curiosity, Opportunity ve Spirit) arasından seçim yapabilir.
@@ -32,4 +30,3 @@ Mars Görüntülerini Görüntüleme : Uygulama, seçilen gezici tarafından çe
 
 Görüntüleri Filtreleme : Kullanıcılar, görüntüleri sol (Mars günü) ve kamera türü gibi çeşitli kriterlere göre filtreleyerek aramalarını daraltabilir ve belirli ilgi alanlarına odaklanabilirler.
 
-İnteraktif Kullanıcı Arayüzü : Kullanıcı arayüzü sezgisel ve kullanıcı dostu olacak şekilde tasarlanmış olup kesintisiz gezinme ve sürükleyici bir deneyim sağlar.
