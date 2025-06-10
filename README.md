@@ -77,7 +77,11 @@ nasa_project/
  ├── styles/           # Tailwind CSS ve global stiller
  ├── utils/            # API çağrıları ve yardımcı fonksiyonlar
  └── README.md
-🎓 Öğrendiklerim & Geliştirme Süreci
+
+ ---
+ 
+## 🎓 Öğrendiklerim & Geliştirme Süreci
+
 NASA Open API’lerini etkin kullanma ve veri yönetimi.
 
 React ve Next.js ile performans odaklı SPA geliştirme.
