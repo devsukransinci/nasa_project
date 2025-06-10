@@ -9,7 +9,28 @@ At its core, the app offers users the opportunity to choose from three iconic Ma
 - It aims to inspire users with up-to-date, meaningful space content presented in an educational and enjoyable manner.  
 - Utilizes APIs to provide real-time and dynamic data updates.
 
+## ⚙️ Features
 
+- Displays NASA’s Astronomy Picture of the Day (APOD).  
+- Lists and allows detailed viewing of Mars Rover photos.  
+- Built with React.js and Next.js for a fast, modern frontend experience.  
+- Styled with Tailwind CSS for a responsive and sleek design.  
+- Uses Axios and SWR for efficient API data fetching and caching.  
+- Fully responsive layout supporting both desktop and mobile devices.
+
+---
+
+## 🛠 Tech Stack
+
+| Layer          | Technologies & Tools          |
+|----------------|------------------------------|
+| Frontend       | React.js, Next.js            |
+| Styling        | Tailwind CSS                 |
+| Data Handling  | Axios, SWR                   |
+| API            | NASA Open APIs               |
+| Deployment     | Vercel / Netlify (optional)  |
+
+---
 
 Used technologies :
 
@@ -65,17 +86,7 @@ Mars yüzeyinde çekilen geniş manzara koleksiyonunu, manzaraları, jeolojik ol
 | Dağıtım (Opsiyonel) | Vercel / Netlify            |
 
 ---
-## 🚀 Kurulum & Çalıştırma
 
-1. Depoyu klonla:
-
-```bash
-git clone https://github.com/devsukransinci/nasa_project.git
-2 Bağımlılıkları yükle:
-cd nasa_project
-3 Projeyi geliştirme modunda başlat:
-npm run dev
-4 Tarayıcını aç ve http://localhost:3000 adresine git.
  Proje Yapısı
 nasa_project/
  ├── components/       # React bileşenleri
