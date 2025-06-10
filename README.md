@@ -68,17 +68,6 @@ Mars yüzeyinde çekilen geniş manzara koleksiyonunu, manzaraları, jeolojik ol
 | Dağıtım (Opsiyonel) | Vercel / Netlify            |
 
 ---
-
- Proje Yapısı
-nasa_project/
- ├── components/       # React bileşenleri
- ├── pages/            # Next.js sayfaları
- ├── public/           # Statik dosyalar, resimler
- ├── styles/           # Tailwind CSS ve global stiller
- ├── utils/            # API çağrıları ve yardımcı fonksiyonlar
- └── README.md
-
- ---
  
 ## 🎓 Öğrendiklerim & Geliştirme Süreci
 
