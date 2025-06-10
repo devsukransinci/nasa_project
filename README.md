@@ -31,7 +31,28 @@ At its core, the app offers users the opportunity to choose from three iconic Ma
 | Deployment     | Vercel / Netlify (optional)  |
 
 ---
+## 🧩 Project Structure
 
+```
+nasa_project/
+ ├── components/       # React components
+ ├── pages/            # Next.js pages
+ ├── public/           # Static assets and images
+ ├── styles/           # Tailwind CSS and global styles
+ ├── utils/            # API calls and helper functions
+ └── README.md
+```
+
+---
+
+## 🎓 What I Learned & Development Process
+
+- Effective use of NASA’s Open APIs for dynamic data fetching.  
+- Building a performant single-page application using React and Next.js.  
+- Implementing responsive and modern UI designs with Tailwind CSS.  
+- Managing data fetching and caching using SWR library.  
+- Handling API rate limits and error management gracefully.  
+- Creating a seamless user experience across devices.
 
 ## 🌌 Proje Hakkında
 Uygulama özünde kullanıcılara, her birinin kendine özgü görev geçmişi ve keşifleri olan üç ikonik Mars Rover'ı (Curiosity, Opportunity ve Spirit) arasından seçim yapma fırsatı sunuyor. Bir gezici seçildikten sonra kullanıcılar,
@@ -83,9 +104,27 @@ Responsive tasarım ile tüm cihazlarda uyumlu kullanıcı deneyimi.
 
 API sınırlandırmaları ve hata yönetimi üzerine pratik çözümler.
 
-```bash
-git clone https://github.com/devsukransinci/nasa_project.git
-cd nasa_project
-```bash
-npm install
+## 🤝 Contributing
+
+If you'd like to contribute, please open an issue to discuss your ideas or submit a pull request.
+
+---
+
+## 📄 License
+
+This project is licensed under the MIT License.
+
+---
+
+## 📬 Contact
+
+Şükran Sincı  
+- [LinkedIn](https://www.linkedin.com/in/%C5%9F%C3%BCkransinci/)  
+- [GitHub](https://github.com/devsukransinci)  
+- [Medium](https://medium.com/@sincisukran)  
+- [Behance](https://www.behance.net/skransinci)  
+
+---
+
+**Thank you for visiting! 🚀**
 
