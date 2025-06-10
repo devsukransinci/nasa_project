@@ -82,3 +82,10 @@ SWR kütüphanesi ile veri önbellekleme ve otomatik yenileme.
 Responsive tasarım ile tüm cihazlarda uyumlu kullanıcı deneyimi.
 
 API sınırlandırmaları ve hata yönetimi üzerine pratik çözümler.
+
+```bash
+git clone https://github.com/devsukransinci/nasa_project.git
+cd nasa_project
+```bash
+npm install
+
