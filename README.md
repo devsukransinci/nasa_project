@@ -2,6 +2,8 @@
 
 At its core, the app offers users the opportunity to choose from three iconic Mars Rovers – Curiosity, Opportunity and Spirit – each with their own unique mission history and explorations. Once a rover is selected, users can delve into a large collection of views captured on the Martian surface, including landscapes, geological formations, and snapshots of the rover's journey across the Martian landscape
 
+---
+
 ## 🎯 Purpose & Problem Solved
 
 - Space data is often technical and difficult for the average user to access and understand.  
@@ -9,6 +11,8 @@ At its core, the app offers users the opportunity to choose from three iconic Ma
 - It aims to inspire users with up-to-date, meaningful space content presented in an educational and enjoyable manner.  
 - Utilizes APIs to provide real-time and dynamic data updates.
 
+  ---
+  
 ## ⚙️ Features
 
 - Displays NASA’s Astronomy Picture of the Day (APOD).  
@@ -54,9 +58,13 @@ nasa_project/
 - Handling API rate limits and error management gracefully.  
 - Creating a seamless user experience across devices.
 
+  ---
+
 ## 🌌 Proje Hakkında
 Uygulama özünde kullanıcılara, her birinin kendine özgü görev geçmişi ve keşifleri olan üç ikonik Mars Rover'ı (Curiosity, Opportunity ve Spirit) arasından seçim yapma fırsatı sunuyor. Bir gezici seçildikten sonra kullanıcılar,
 Mars yüzeyinde çekilen geniş manzara koleksiyonunu, manzaraları, jeolojik oluşumları ve gezicinin Mars arazisindeki yolculuğuna dair anlık görüntüleri derinlemesine inceleyebiliyor
+
+---
 
 ## 🎯 Amaç & Çözüm
 
@@ -77,6 +85,8 @@ Mars yüzeyinde çekilen geniş manzara koleksiyonunu, manzaraları, jeolojik ol
 - Mobil ve masaüstü uyumlu arayüz.
 -Mars Görüntülerini Görüntüleme : Uygulama, seçilen gezici tarafından çekilen çarpıcı görüntülerden oluşan bir galeri görüntüleyerek kullanıcıların Mars arazisini ve jeolojik özelliklerini keşfetmesine olanak tanır.
 -Görüntüleri Filtreleme : Kullanıcılar, görüntüleri sol (Mars günü) ve kamera türü gibi çeşitli kriterlere göre filtreleyerek aramalarını daraltabilir ve belirli ilgi alanlarına odaklanabilirler.
+
+---
 
 ## 🛠 Teknoloji Yığını (Tech Stack)
 
@@ -103,6 +113,36 @@ SWR kütüphanesi ile veri önbellekleme ve otomatik yenileme.
 Responsive tasarım ile tüm cihazlarda uyumlu kullanıcı deneyimi.
 
 API sınırlandırmaları ve hata yönetimi üzerine pratik çözümler.
+
+---
+## 🚀 Installation & Running Locally
+
+1. Clone the repository:
+
+```bash
+git clone https://github.com/devsukransinci/nasa_project.git
+cd nasa_project
+```
+
+2. Install dependencies:
+
+```bash
+npm install
+```
+
+3. Run the development server:
+
+```bash
+npm run dev
+```
+
+4. Open your browser and go to:
+
+```
+http://localhost:3000
+```
+
+---
 
 ## 🤝 Contributing
 
